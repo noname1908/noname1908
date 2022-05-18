@@ -63,6 +63,8 @@ Welcome to my page! </br> I'm Duy Nguyen, Fullstack developer, currently living 
   </tbody>
 </table>
 
+<!--START_SECTION:activity-->
+
 <!---
 noname1908/noname1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
