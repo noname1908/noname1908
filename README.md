@@ -63,7 +63,7 @@ Welcome to my page! </br> I'm Duy Nguyen, Fullstack developer, currently living 
   </tbody>
 </table>
 
-### :zap: Recent Activity
+### :zap: Recent activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/noname1908/noname1908/pull/1) in [noname1908/noname1908](https://github.com/noname1908/noname1908)
 2. 💪 Opened PR [#1](https://github.com/noname1908/noname1908/pull/1) in [noname1908/noname1908](https://github.com/noname1908/noname1908)
