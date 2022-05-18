@@ -63,6 +63,7 @@ Welcome to my page! </br> I'm Duy Nguyen, Fullstack developer, currently living 
   </tbody>
 </table>
 
+
 <!--START_SECTION:activity-->
 
 <!---
