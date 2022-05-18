@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
-![](https://komarev.com/ghpvc/?username=noname1908&style=flat-square)
+
 
 Welcome to my page! </br> I'm Duy Nguyen, Fullstack developer, currently living in <b>Ho Chi Minh City, Vietnam</b>.
 
